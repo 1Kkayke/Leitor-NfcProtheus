@@ -26,7 +26,9 @@ Este projeto tem como objetivo realizar a leitura de cartões NFC utilizando a l
   ### 🛠️Instalação Leitora ACR122
 1. Foi necessário a instalação do driver ZADIG, sendo ele utilizado para atualizar o driver do usb para a leitora ACR122.
    Tutorial para a leitora ACR122:
-   
+
+![image](https://github.com/user-attachments/assets/05f693c4-0d78-46b9-a630-c5d351d38631)
+
    - Selecione para listar todos os drivers
 
 ![image](https://github.com/user-attachments/assets/152b37ce-3294-43b2-9f56-558d0e79ea96)
