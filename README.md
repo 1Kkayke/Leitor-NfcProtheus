@@ -72,5 +72,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 ## 📄 Licença
 
 Este Projeto foi criado e desenvolvido por Kayke Laurindo Ferreira da Silva.
+O uso dele é gratuito, feito para ajudar comunidade de desenvolvedores Advpl & analistas TOTVS Protheus
 
 ---
